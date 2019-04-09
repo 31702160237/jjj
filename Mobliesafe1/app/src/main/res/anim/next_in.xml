@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate xmlns:android="http://schemas.android.com/apk/res/android">
+    android:fromXDelta="100%p"
+    android:toXDelta="0"
+    android:fromYDelta="0"
+    android:toYDelta="0"
+    android:duration="500"
+    android:repeatCount="0"
+    >
+    <!--这是动画切入效果-->
+    <!-- android:fromXDelta="100%p", android:toXDelta="0"表示当前界面从X轴坐标100%p移动到0，
+     android:duration="500"表示动画执行时长为500毫秒，android:repeatCount="0"表示动画不再
+     重复！
+     -->
+</translate>
